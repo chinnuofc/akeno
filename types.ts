@@ -1,4 +1,3 @@
-
 export enum Role {
   USER = 'user',
   MODEL = 'model',
@@ -20,4 +19,11 @@ export interface Domain {
     id: DomainID;
     name: string;
     icon: React.ComponentType<{ className?: string }>;
+}
+
+export interface Conversation {
+    id: string;
+    domain: DomainID;
+    messages: Message[];
+    timestamp: number;
 }
