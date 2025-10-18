@@ -1,0 +1,5 @@
+{
+  "name": "Multi-Domain AI Chatbot",
+  "description": "A sophisticated chatbot providing detailed information across various domains like automobiles, anime, manga, and bikes. It features a modern interface with easy domain switching, conversation history, and topic-specific quick-reply suggestions, all powered by the Gemini API for accurate, conversational responses.",
+  "requestFramePermissions": []
+}
