@@ -71,6 +71,12 @@ The application is a single-page React app that interacts directly with the Goog
 
 This project is designed to run in a self-contained web environment. No local installation or dependency management is required. The API key for the Gemini API is managed securely by the environment and is automatically available as `process.env.API_KEY`.
 
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: [https://ai.studio/apps/drive/1nzFiTnQN6VsFUa6gwrJS8S_UjpYBwnfu
+](https://ai.studio/apps/drive/1-bzOSb8g9CCd329Tq8R-C0S5ju5lPoh4)
 ## 🎨 Customization & Extensibility
 
 It's easy to add more domains or customize the existing ones.
